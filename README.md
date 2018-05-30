@@ -8,10 +8,10 @@ hybrid level to pressure level
 
 Author
 --------------
-| **Siyu Li**| 
-| Department of Atmospheric and Environmental Sciences 
-| University at Albany 
-| sli4@albany.edu 
+| **Siyu Li**| <br />
+| Department of Atmospheric and Environmental Sciences <br />
+| University at Albany <br />
+| sli4@albany.edu <br />
 
 
 Description
